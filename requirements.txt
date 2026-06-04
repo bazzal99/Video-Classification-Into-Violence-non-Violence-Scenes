@@ -1,0 +1,6 @@
+tensorflow>=2.10
+keras>=2.10
+opencv-python-headless>=4.6
+numpy>=1.23
+scikit-learn>=1.1
+flask>=2.3

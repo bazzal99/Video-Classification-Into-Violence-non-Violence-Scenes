@@ -1,0 +1,24 @@
+# Trained models
+*.keras
+*.h5
+
+# Preprocessed data (too large for git)
+*.npz
+*.npy
+dataset.zip
+
+# Uploaded videos
+uploads/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
