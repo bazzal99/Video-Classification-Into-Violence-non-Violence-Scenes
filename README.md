@@ -109,13 +109,6 @@ python app.py
 
 ---
 
-## Citation / Acknowledgement
-
-> Abdulla Nasser AlAbdulghani, *"Video Scene Classification Into Violence and Non-Violence Scenes,"*
-> COMP390 Dissertation, Department of Computer Science, University of Liverpool, 2025/26.
-> Supervised by Mohammad Bazzal, IMT Atlantique.
-
----
 
 ## License
 
